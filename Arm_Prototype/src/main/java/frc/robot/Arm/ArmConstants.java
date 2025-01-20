@@ -1,7 +1,7 @@
-package frc.robot.subsystems.Arm;
+package frc.robot.Arm;
 
 import edu.wpi.first.math.geometry.Rotation2d;
-import frc.robot.subsystems.Arm.ArmSubsystem.ArmPose;
+import frc.robot.Arm.ArmSubsystem.ArmPose;
 import edu.wpi.first.math.util.Units;
 
 public class ArmConstants {
